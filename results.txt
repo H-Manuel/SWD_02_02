@@ -1,0 +1,5 @@
+Computer Name: Fabi
+Date of Test: 2024-11-07 18:20:42
+Bubble Sort Time: 3.049721 seconds
+Quick Sort Time: 0.010028 seconds
+
