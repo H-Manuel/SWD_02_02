@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Computer Name: Fabi
 Date of Test: 2024-11-07 18:20:42
 Bubble Sort Time: 3.049721 seconds
 Quick Sort Time: 0.010028 seconds
+=======
+Computer Name: AcerSwift
+Date of Test: 2024-11-07 18:19:58
+Bubble Sort Time: 6.251655 seconds
+Quick Sort Time: 0.020319 seconds
+>>>>>>> ad18d8fb21adb85553bf3e42f743ec7173029487
 
