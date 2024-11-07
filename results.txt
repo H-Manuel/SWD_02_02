@@ -1,0 +1,5 @@
+Computer Name: AcerSwift
+Date of Test: 2024-11-07 18:19:58
+Bubble Sort Time: 6.251655 seconds
+Quick Sort Time: 0.020319 seconds
+
